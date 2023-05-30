@@ -6,6 +6,7 @@
   <img align="left" alt="ExtincTay | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <br><br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ExtincTay&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<br><br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ExtincTay&theme=darkhub&row=4&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ExtincTay&show_icons=true&theme=gotham" alt="ExtincTay" />
