@@ -13,7 +13,7 @@
 <br>
 
 Things i can do: <br>
-- Create json rest api's <br>
+- Create json rest api's <br><br>
 - Create static websites using html, css, Javascript <br>
-  (can use js to link to previously mentioned api's as well) <br>
-- Make discord bots using pycord<br>
+  (can use js to link to previously mentioned api's as well) <br><br>
+- Make discord bots using pycord <br><br>
