@@ -9,4 +9,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ExtincTay&theme=darkhub&row=4&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ExtincTay&show_icons=true&theme=gotham" alt="ExtincTay" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ExtincTay&show_icons=true&theme=gotham" alt="ExtincTay"></p>
+
+Things i can do:<br>
+Create json rest api's <br>
